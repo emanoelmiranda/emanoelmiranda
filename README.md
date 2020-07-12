@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**emanoelmiranda/emanoelmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Emanoel Miranda**, I'm a Software Developer.
+
+  ___
+
+- 🔭 I’m currently working on **IMPACTANTE TECNOLOGIA**
+
+- 🌱 I’m currently learning **Machine Learning** and **DevOps**
+
+- 💬 Ask me about: Back-end, Front-end, Cloud Computing, Investiments
