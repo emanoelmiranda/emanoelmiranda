@@ -6,7 +6,7 @@
 I'm **Emanoel Miranda**, I'm a Software Developer.
 
 
-- 🌱 I’m currently learning **.NET CORE**
+- 🌱 I’m currently learning **BLOCKCHAIN**
 
 - 💬 Ask me about: Back-end, Front-end, Cloud Computing, Investiments
 
